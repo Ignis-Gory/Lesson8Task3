@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\HomeWork8Task3\bin\Debug\netcoreapp3.1\HomeWork8Task3.exe
+C:\Users\User\source\repos\HomeWork8Task3\bin\Debug\netcoreapp3.1\HomeWork8Task3.deps.json
+C:\Users\User\source\repos\HomeWork8Task3\bin\Debug\netcoreapp3.1\HomeWork8Task3.runtimeconfig.json
+C:\Users\User\source\repos\HomeWork8Task3\bin\Debug\netcoreapp3.1\HomeWork8Task3.runtimeconfig.dev.json
+C:\Users\User\source\repos\HomeWork8Task3\bin\Debug\netcoreapp3.1\HomeWork8Task3.dll
+C:\Users\User\source\repos\HomeWork8Task3\bin\Debug\netcoreapp3.1\HomeWork8Task3.pdb
+C:\Users\User\source\repos\HomeWork8Task3\obj\Debug\netcoreapp3.1\HomeWork8Task3.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\HomeWork8Task3\obj\Debug\netcoreapp3.1\HomeWork8Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\HomeWork8Task3\obj\Debug\netcoreapp3.1\HomeWork8Task3.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\HomeWork8Task3\obj\Debug\netcoreapp3.1\HomeWork8Task3.AssemblyInfo.cs
+C:\Users\User\source\repos\HomeWork8Task3\obj\Debug\netcoreapp3.1\HomeWork8Task3.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HomeWork8Task3\obj\Debug\netcoreapp3.1\HomeWork8Task3.dll
+C:\Users\User\source\repos\HomeWork8Task3\obj\Debug\netcoreapp3.1\HomeWork8Task3.pdb
+C:\Users\User\source\repos\HomeWork8Task3\obj\Debug\netcoreapp3.1\HomeWork8Task3.genruntimeconfig.cache
